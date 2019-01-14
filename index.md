@@ -7,6 +7,8 @@ and health economics. We have a mix of both qualitative and quantitiative resear
 This seminar series is run by our research students as a venue for sharing ideas, practice talks before conferences,
 and to bring all the different specialities together.
 
+*Previous talks and slides can be found at the bottom of the page.*
+
 If you're interested in giving a talk, please contact us (details at the bottom)!
 
 ## Upcoming Talks
@@ -19,10 +21,10 @@ If you're interested in giving a talk, please contact us (details at the bottom)
 
 | *Role* | *Name* | *Contact* |
 |--------|--------|-----------|
-| President | Evrim | Email |
-| Vice-President | asd | asd |
-| Webmaster | asd | asd |
-| Secretary | asd | asd |
+| President | Evrim Anik | [Email](mailto:umean@leeds.ac.uk) |
+| Vice-President | Remco Peters | [Email](mailto:umrpe@leeds.ac.uk) |
+| Webmaster | Daliya Kaskirbayeva | [Email](mailto:umdk@leeds.ac.uk) |
+| Secretary | Paolo Cocco | [Email](mailto:umpc@leeds.ac.uk) |
 | Faculty Advisor | Samuel Relton | [Email](mailto:s.d.relton@leeds.ac.uk) |
 
 ## Previous Talks
