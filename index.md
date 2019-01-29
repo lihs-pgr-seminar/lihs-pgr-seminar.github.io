@@ -21,7 +21,7 @@ If you're interested in giving a talk, please contact us (details at the bottom)
 
 | *Role* | *Name* | *Contact* |
 |--------|--------|-----------|
-| President | Evrim Anik | [Email](mailto:umean@leeds.ac.uk) |
+|  | Evrim Anik | [Email](mailto:umean@leeds.ac.uk) |
 | Vice-President | Remco Peters | [Email](mailto:umrpe@leeds.ac.uk) |
 | Webmaster | Daliya Kaskirbayeva | [Email](mailto:umdk@leeds.ac.uk) |
 | Secretary | Paola Cocco | [Email](mailto:umpc@leeds.ac.uk) |
