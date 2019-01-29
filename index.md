@@ -11,11 +11,11 @@ and to bring all the different specialities together.
 
 If you're interested in giving a talk, please contact us (details at the bottom)!
 
-## Upcoming Talks
+## Upcoming Seminars
 
-| *Speaker* | *Title* | *Place and Time*|
-|-----------|---------|-----------------|
-| [Daliya Kaskirbayeva](https://medicinehealth.leeds.ac.uk/faculty-/pgr/3878/daliya-kaskirbayeva) | The impact of Kazakhstani provider payment reform on hospital outcomes: an interrupted time series approach with matching | Worsley Building 7.04, 12.00 - 13.00|
+| *Speaker* | *Title* | *Venue*| *Date* |
+|-----------|---------|-----------------|-------------------|
+| [Daliya Kaskirbayeva](https://medicinehealth.leeds.ac.uk/faculty-/pgr/3878/daliya-kaskirbayeva) | The impact of Kazakhstani provider payment reform on hospital outcomes: an interrupted time series approach with matching | Worsley Building 7.04 | 12.00 - 13.00|
 
 ## Organisers
 
