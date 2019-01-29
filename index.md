@@ -17,7 +17,7 @@ If you're interested in giving a talk, please contact us (details at the bottom)
 |-----------|---------|-----------------|---------------------------|
 | [Daliya Kaskirbayeva](https://medicinehealth.leeds.ac.uk/faculty-/pgr/3878/daliya-kaskirbayeva) | The impact of Kazakhstani provider payment reform on hospital outcomes: an interrupted time series approach with matching | Worsley Building, Room 7.04 |13 February 12.00 - 13.00|
 
-## Organisers
+## Email us
 
 | *Name* | *Contact* |
 |--------|-----------|
