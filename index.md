@@ -15,9 +15,10 @@ If you're interested in giving a talk, please contact us (details at the bottom)
 
 | *Speaker* | *Title* | *Venue*| *Date* |
 |-----------|---------|-----------------|---------------------------|
-|Francis Poitier | The impact of Kazakhstani provider payment reform on hospital outcomes: an interrupted time series approach with matching | Worsley Building, Room 9.57 |13/03/2019 13.00-14.00|
-| [Daliya Kaskirbayeva](https://medicinehealth.leeds.ac.uk/faculty-/pgr/3878/daliya-kaskirbayeva) | The impact of Kazakhstani provider payment reform on hospital outcomes: an interrupted time series approach with matching | Worsley Building, Room 7.04 |13/02/2019 12.00-13.00|
-
+|Francis Poitier |TBD | Worsley Building, Room 9.57 |13/03/2019 13.00-14.00|
+| TBD | TBD           | Worsley Building, Room 9.53 |10/04/2019 13.00-14.00|
+| TBD | TBD           | Worsley Building, Room 9.57 |22/05/2019 13.00-14.00|
+| TBD | TBD           | Worsley Building, Room 9.53 |5/06/2019 13.00-14.00|
 ## Email us
 
 | *Name* | *Contact* |
