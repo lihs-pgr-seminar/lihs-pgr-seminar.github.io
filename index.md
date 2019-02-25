@@ -17,8 +17,8 @@ If you're interested in giving a talk, please contact us (details at the bottom)
 |-----------|---------|-----------------|---------------------------|
 | Francis Poitier | Gendered Health In Small Island Developing States: Using an intersectionality approach to examine the persistence of obesity in The Bahamas | Worsley Building, Room 9.57 |13/03/2019 13.00-14.00|
 | Janet Tonge | TBD           | Worsley Building, Room 9.53 |10/04/2019 13.00-14.00|
-| TBD | TBD           | Worsley Building, Room 9.57 |22/05/2019 13.00-14.00|
-| TBD | TBD           | Worsley Building, Room 9.53 |5/06/2019 13.00-14.00|
+| Davide Tebaldi | TBD           | Worsley Building, Room 9.57 |22/05/2019 13.00-14.00|
+| Remco Peters | TBD           | Worsley Building, Room 9.53 |5/06/2019 13.00-14.00|
 
 ## Email us
 
