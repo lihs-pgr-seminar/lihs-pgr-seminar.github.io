@@ -35,4 +35,5 @@ If you're interested in giving a talk, please contact us (details at the bottom)
 
 | *Speaker* | *Title* | *Venue*| *Date* |
 |-----------|---------|-----------------|---------------------------|
+| [Francis Poitier](https://medicinehealth.leeds.ac.uk/medicine/pgr/4016/francis-k-poitier) | TGendered Health In Small Island Developing States: Using an intersectionality approach to examine the persistence of obesity in The Bahamas | Worsley Building, Room 7.04 |13/02/2019 12.00-13.00|
 | [Daliya Kaskirbayeva](https://medicinehealth.leeds.ac.uk/faculty-/pgr/3878/daliya-kaskirbayeva) | The impact of provider payment reform on hospital outcomes: an interrupted time series approach with matching | Worsley Building, Room 7.04 |13/02/2019 12.00-13.00|
