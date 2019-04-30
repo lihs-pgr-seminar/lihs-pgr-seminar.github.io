@@ -16,6 +16,7 @@ If you're interested in giving a talk, please contact us (details at the bottom)
 | *Speaker* | *Title* | *Venue*| *Date* |
 |-----------|---------|-----------------|---------------------------|
 | Remco Peters | TBD           | Worsley Building, Room 9.53 |5/06/2019 13.00-14.00|
+| Remco Peters | TBD           | Worsley Building, Room 9.53 |5/06/2019 13.00-14.00|
 
 ## Email us
 
