@@ -25,7 +25,6 @@ If you're interested in giving a talk, please contact us (details at the bottom)
 | Remco Peters | [Email](mailto:umrpe@leeds.ac.uk) |
 | Paola Cocco | [Email](mailto:umpc@leeds.ac.uk) |
 | Zhuxin Mao | [Email](mailto:umzm@leeds.ac.uk) |
-| Daliya Kaskirbayeva | [Email](mailto:umdk@leeds.ac.uk) |
 | Samuel Relton | [Email](mailto:s.d.relton@leeds.ac.uk) |
 
 ## Previous Talks
