@@ -31,6 +31,7 @@ If you're interested in giving a talk, please contact us (details at the bottom)
 
 | *Speaker* | *Title* | *Venue*| *Date* |
 |-----------|---------|-----------------|---------------------------|
+| [Paola Cocco](https://medicinehealth.leeds.ac.uk/medicine/pgr/3762/paola-cocco) | Developing Target Product Profiles (TPPs) for Medical Tests: a methodological review | Worsley Building, Room 9.15 |20/11/2019 13.00-14.00|
 | [Stefan Williams](https://medicinehealth.leeds.ac.uk/medicine/pgr/4127/dr-stefan-williams) | Computer Vision for Parkinson's Disease | Worsley Building, Room 11.09 |30/10/2019 12.00-13.00|
 | Davide Tebaldi | The impact of time and risk-preferences upon the management of type 2 diabetes | Worsley Building, Room 9.57 |22/05/2019 13.00-14.00|
 | [Janet Tonge](https://medicinehealth.leeds.ac.uk/medicine/pgr/4090/janet-tonge)| Targeted Lung Cancer Screening: Results and selected implications arising from the Manchester Lung Health Check Pilot | Worsley Building, Room 9.53 |10/04/2019 13.00-14.00|
