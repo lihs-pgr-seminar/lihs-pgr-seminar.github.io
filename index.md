@@ -15,7 +15,7 @@ If you're interested in giving a talk, please contact us (details at the bottom)
 
 | *Speaker* | *Title* | *Venue*| *Date* |
 |-----------|---------|-----------------|---------------------------|
-| Paola Cocco | Developing Target Product Profiles (TPPs) for Medical Tests: a methodological review | Worsley Building, Room 9.15 |20/11/2019 13.00-14.00|
+| [Jorge Zepeda](https://medicinehealth.leeds.ac.uk/medicine/pgr/4142/jorge-zepeda) | How can opinion leaders contribute to innovation and change in primary care? A realist evaluation in a Brazilian city  | Worsley Building, Room 9.15 |11/03/2020 12.30-13.30|
 
 ## Email us
 
